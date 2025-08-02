@@ -17,7 +17,7 @@ class AdminUserSeeder extends Seeder
     {
         DB::table('users')->insert([
             'name' => 'Admin',
-            'email' => 'admin@couponontop.com',
+            'email' => 'admin@thelastdeals.com',
             'email_verified_at' => Carbon::now(),
             'password' => Hash::make('admin123'),
             'remember_token' => \Str::random(10),
