@@ -3,8 +3,7 @@
         <div class="row d-block w-100" style="--bs-gutter-x: 0;">
             <a href="/">
                 <div class="col-12 text-center">
-                    <img src="https://flashdeales.com/uploads/files/flash%20Deals.png" alt="Flash Deals"
-                        style="max-width: 423px;width: 100%;">
+                    <img src="/flashdeal/logo.png" alt="Flash Deals" style="max-width: 423px;width: 100%;">
                     <p style="font-size: 12px;margin-bottom: 0;color: black;font-weight: bold;">Leading Coupons &amp;
                         Deals
                         Marketplace</p>
