@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Coupon On Top - The Best Coupons, Promo Codes & Cash Back Offers')
+@section('title', 'The Last Deals - The Best Coupons, Promo Codes & Cash Back Offers')
 @section('content')
     <div class="container">
         <div class="row">
