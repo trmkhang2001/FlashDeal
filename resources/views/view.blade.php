@@ -153,7 +153,7 @@
                         <div class="filter-panel">
                             <div class="filter-item js-common-log-click" data-click-log-flag="pc_brand_tab_all"
                                 data-filter-type="all">
-                                All(4)
+                                All
                             </div>
                         </div>
                     </div>
@@ -170,7 +170,7 @@
                                     </div>
                                     <div class="deal-desc" id="cpid-6878">
                                         <div class="type-deal">
-                                            <span>{{ $offer->offer }}</span>
+                                            <span>Verified Code</span>
                                         </div>
                                         <h2 class="title">
                                             <a href="{{ $offer->url }}" target="_blank">
