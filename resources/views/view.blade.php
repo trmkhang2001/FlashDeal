@@ -41,6 +41,12 @@
                             Tap To Copy
                         </button>
                     </div>
+                    <div class="d-flex justify-content-center align-items-center mb-3">
+                        <a class="btn btn-primary border-dashed-custom btn-redeem" type="button" id="redeem-at-store">
+                            Redeem at [Store]
+                        </a>
+                    </div>
+
 
 
 
@@ -101,9 +107,9 @@
                                             </polygon>
                                         </svg>
                                         <!--?xml version="1.0" encoding="utf-8"?-->
-                                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 12.705 512 486.59"
-                                            x="0px" y="0px" xml:space="preserve" width="23px" height="23px"
-                                            fill="gray">
+                                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+                                            viewBox="0 12.705 512 486.59" x="0px" y="0px" xml:space="preserve"
+                                            width="23px" height="23px" fill="gray">
                                             <polygon
                                                 points="256.814,12.705 317.205,198.566 512.631,198.566 354.529,313.435 414.918,499.295 256.814,384.427 98.713,499.295 159.102,313.435 1,198.566 196.426,198.566 ">
                                             </polygon>
@@ -300,6 +306,8 @@
                     document.querySelector('.modal-footer img').src = img;
                     document.getElementById('promo-title').innerText = title;
                     document.getElementById('promo-url').innerText = store;
+                    document.getElementById('redeem-at-store').innerText = `Redeem at ${store}`;
+                    document.getElementById('redeem-at-store').href = url;
                     document.getElementById('promo-url').href = url;
                     document.getElementById('promo-code').value = code;
                     document.getElementById('promo-more').href =

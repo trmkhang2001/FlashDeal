@@ -1654,3 +1654,10 @@ img.obj-img {
 .carousel-control-next-icon {
     transform: rotate(180deg); /* Đảo chiều icon cho nút "next" */
 }
+.border-dashed-custom {
+    border: 2px dashed #45fd0d !important; /* màu xanh biển + đứt đoạn */
+    background-color: #0d6efd;
+}
+.btn-redeem {
+    background-color: #0d6efd;
+}
