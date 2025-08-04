@@ -253,7 +253,7 @@
                                                 {{-- Nếu có code --}} data-store-name="{{ $deal->name }}"
                                                 data-img="{{ asset('storage/' . $deal->image) }}">
                                                 {{-- Nếu có code --}}
-                                                Get Offer
+                                                Get Code
                                             </button>
                                         </div>
 
