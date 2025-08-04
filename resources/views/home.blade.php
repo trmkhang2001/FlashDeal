@@ -13,57 +13,56 @@
                     <div class="carousel-inner">
 
                         <div class="carousel-item active">
-                            <a href="https://epomaker.com?sca_ref=4702266.O3UlL7hkVH" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="https://flashdeales.com/uploads/files/Banner/Epomaker%20baner.jpg"
                                     class="d-block w-100" alt="Epomaker" title="Epomaker">
                             </a>
                         </div>
 
                         <div class="carousel-item">
-                            <a href="https://snogostraws.com/?sca_ref=5594059.uKM0Q6YaTj&utm_source=quang-nguyen-ngoc&utm_medium=affiliate&utm_campaign=snogo-stars"
-                                target="_blank">
+                            <a href="" target="_blank">
                                 <img src="https://flashdeales.com/uploads/files/Logo%20Store/Snogo%20Straws(1).png"
                                     class="d-block w-100" alt="Snogo Straws" title="Snogo Straws">
                             </a>
                         </div>
 
                         <div class="carousel-item">
-                            <a href="https://www.moft.us?ref=mmu4zgn" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="https://flashdeales.com/uploads/files/Banner/Moft%20baner.jpg"
                                     class="d-block w-100" alt="Moft" title="Moft">
                             </a>
                         </div>
 
                         <div class="carousel-item">
-                            <a href="https://gameofbricks.eu?sca_ref=4719054.Mi6p65Dqo8" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="https://flashdeales.com/uploads/files/Banner/Game%20of%20Bricks.png"
                                     class="d-block w-100" alt="Game of Bricks" title="Game of Bricks">
                             </a>
                         </div>
 
                         <div class="carousel-item">
-                            <a href="https://kiyostudios.com?sca_ref=4745651.TIMgZy4go8" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="https://flashdeales.com/uploads/files/Banner/Kiyo%20Studios.png"
                                     class="d-block w-100" alt="Kiyo Studios" title="Kiyo Studios">
                             </a>
                         </div>
 
                         <div class="carousel-item">
-                            <a href="https://guptaprogram.com/aff/796/" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="https://flashdeales.com/uploads/files/Banner/Gupta%20Program.png"
                                     class="d-block w-100" alt="Gupta Program" title="Gupta Program">
                             </a>
                         </div>
 
                         <div class="carousel-item">
-                            <a href="https://www.frontlinefoam.com/?sld=43" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="https://flashdeales.com/uploads/files/Banner/Frontline%20Foam.png"
                                     class="d-block w-100" alt="Frontline Foam" title="Frontline Foam">
                             </a>
                         </div>
 
                         <div class="carousel-item">
-                            <a href="https://tribalchimp.com?sca_ref=4763153.12cPqs71EO" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="https://flashdeales.com/uploads/files/Banner/Tribal%20Chimp.png"
                                     class="d-block w-100" alt="Tribal Chimp" title="Tribal Chimp">
                             </a>
