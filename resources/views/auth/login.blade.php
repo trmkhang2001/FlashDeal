@@ -74,7 +74,7 @@
             </div>
         </div>
         <div class="copyright text-center my-auto">
-            <span>Copyright © Minh Khang 2023</span>
+            <span>Copyright © My Team 2025</span>
         </div>
     </div>
     <!-- Bootstrap core JavaScript-->
