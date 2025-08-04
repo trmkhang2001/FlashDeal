@@ -11,7 +11,8 @@
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <link rel="icon" type="image/png" href="{{ asset('/flashdeal/logo.png') }}" />
+    <link rel="icon" type="image/x-icon" href="{{ asset('flashdeal/favicon.ico') }}" />
+
     {{-- <link href="https://flashdeales.com/css/materialdesignicons.min.css?v=1.1.5" rel="stylesheet" type="text/css"
         media="all" />
     <link href="https://flashdeales.com/css/pe-icon-7-stroke.css?v=1.1.5" rel="stylesheet" type="text/css"
